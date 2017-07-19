@@ -1,0 +1,46 @@
+c:\users\igor\documents\visual studio 2015\Projects\VkChatBot\VkChatBot\bin\Debug\VkChatBot.exe.config
+c:\users\igor\documents\visual studio 2015\Projects\VkChatBot\VkChatBot\bin\Debug\VkChatBot.exe
+c:\users\igor\documents\visual studio 2015\Projects\VkChatBot\VkChatBot\bin\Debug\VkChatBot.pdb
+c:\users\igor\documents\visual studio 2015\Projects\VkChatBot\VkChatBot\bin\Debug\HtmlAgilityPack.dll
+c:\users\igor\documents\visual studio 2015\Projects\VkChatBot\VkChatBot\bin\Debug\VkNet.dll
+c:\users\igor\documents\visual studio 2015\Projects\VkChatBot\VkChatBot\bin\Debug\HtmlAgilityPack.pdb
+c:\users\igor\documents\visual studio 2015\Projects\VkChatBot\VkChatBot\bin\Debug\HtmlAgilityPack.xml
+c:\users\igor\documents\visual studio 2015\Projects\VkChatBot\VkChatBot\bin\Debug\VkNet.xml
+c:\users\igor\documents\visual studio 2015\Projects\VkChatBot\VkChatBot\obj\Debug\VkChatBot.Properties.Resources.resources
+c:\users\igor\documents\visual studio 2015\Projects\VkChatBot\VkChatBot\obj\Debug\VkChatBot.csproj.GenerateResource.Cache
+c:\users\igor\documents\visual studio 2015\Projects\VkChatBot\VkChatBot\obj\Debug\VkChatBot.exe
+c:\users\igor\documents\visual studio 2015\Projects\VkChatBot\VkChatBot\obj\Debug\VkChatBot.pdb
+c:\users\igor\documents\visual studio 2015\Projects\VkChatBot\VkChatBot\bin\Debug\Newtonsoft.Json.dll
+c:\users\igor\documents\visual studio 2015\Projects\VkChatBot\VkChatBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Igor\Documents\Visual Studio 2015\Projects\VkChatBot\VkChatBot\obj\Debug\Interop.SKYPE4COMLib.dll
+C:\Users\Igor\Documents\Visual Studio 2015\Projects\VkChatBot\VkChatBot\obj\Debug\VkChatBot.csproj.ResolveComReference.cache
+C:\Users\Igor\Documents\Visual Studio 2015\Projects\VkChatBot\VkChatBot\obj\Debug\VkChatBot.MainForm.resources
+C:\Users\Igor\Documents\Visual Studio 2015\Projects\VkChatBot\VkChatBot\obj\Debug\VkChatBot.csprojResolveAssemblyReference.cache
+C:\Users\Igor\Documents\Visual Studio 2015\Projects\VkChatBot\VkChatBot\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Igor\Documents\Visual Studio 2015\Projects\VkChatBot\VkChatBot\bin\Debug\Flurl.dll
+C:\Users\Igor\Documents\Visual Studio 2015\Projects\VkChatBot\VkChatBot\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Igor\Documents\Visual Studio 2015\Projects\VkChatBot\VkChatBot\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Igor\Documents\Visual Studio 2015\Projects\VkChatBot\VkChatBot\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Igor\Documents\Visual Studio 2015\Projects\VkChatBot\VkChatBot\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Igor Koryakin\Desktop\VkChatBot\VkChatBot\bin\Debug\VkChatBot.exe.config
+C:\Users\Igor Koryakin\Desktop\VkChatBot\VkChatBot\obj\Debug\VkChatBot.csproj.ResolveComReference.cache
+C:\Users\Igor Koryakin\Desktop\VkChatBot\VkChatBot\obj\Debug\VkChatBot.exe
+C:\Users\Igor Koryakin\Desktop\VkChatBot\VkChatBot\obj\Debug\VkChatBot.pdb
+C:\Users\Igor Koryakin\Desktop\VkChatBot\VkChatBot\obj\Debug\VkChatBot.csprojResolveAssemblyReference.cache
+C:\Users\Igor Koryakin\Desktop\VkChatBot\VkChatBot\obj\Debug\VkChatBot.MainForm.resources
+C:\Users\Igor Koryakin\Desktop\VkChatBot\VkChatBot\obj\Debug\VkChatBot.Properties.Resources.resources
+C:\Users\Igor Koryakin\Desktop\VkChatBot\VkChatBot\obj\Debug\VkChatBot.csproj.GenerateResource.Cache
+C:\Users\Igor Koryakin\Desktop\VkChatBot\VkChatBot\bin\Debug\VkChatBot.exe
+C:\Users\Igor Koryakin\Desktop\VkChatBot\VkChatBot\bin\Debug\VkChatBot.pdb
+C:\Users\Igor Koryakin\Desktop\VkChatBot\VkChatBot\bin\Debug\Flurl.dll
+C:\Users\Igor Koryakin\Desktop\VkChatBot\VkChatBot\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Igor Koryakin\Desktop\VkChatBot\VkChatBot\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Igor Koryakin\Desktop\VkChatBot\VkChatBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Igor Koryakin\Desktop\VkChatBot\VkChatBot\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Igor Koryakin\Desktop\VkChatBot\VkChatBot\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Igor Koryakin\Desktop\VkChatBot\VkChatBot\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Igor Koryakin\Desktop\VkChatBot\VkChatBot\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Igor Koryakin\Desktop\VkChatBot\VkChatBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Igor Koryakin\Desktop\VkChatBot\VkChatBot\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Igor Koryakin\Desktop\VkChatBot\VkChatBot\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Igor Koryakin\Desktop\VkChatBot\VkChatBot\bin\Debug\VkNet.xml
